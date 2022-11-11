@@ -1,0 +1,5 @@
+feign:
+  client:
+    config:
+      demo:
+        uri: https://api.adviceslip.com/advice
